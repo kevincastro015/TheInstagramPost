@@ -1,3 +1,45 @@
 body {
-    background-color: red;
+    background-color: black;
+}
+.post {
+    margin: auto;
+    width: 300px;
+    background-color: white;
+}
+.html-icon {
+    display: inline-block;
+    margin-left: 3px;
+    margin-bottom: 10px;
+}
+.html-text {
+    display: inline-block;
+}
+#h6 {
+    margin-bottom: 0px !important;
+    margin-top: 10px;
+}
+#name {
+    margin-top: 1px;
+}
+.three-dots {
+    float: right;
+    margin-right: 5px;
+}
+img {
+    width: 100%;
+}
+.photo-footer {
+    padding: 5px;
+}
+.footer-icons {
+    margin-bottom: 10px;
+}
+.left {
+    display: inline-block;
+}
+.right {
+    float: right;
+}
+.footer-liked {
+    margin-bottom: 10px;
 }
